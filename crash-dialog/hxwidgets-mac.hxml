@@ -1,0 +1,14 @@
+//this is broken
+-cp src
+-main Main
+
+-lib haxeui-core
+-lib haxeui-hxwidgets
+-lib hxWidgets
+-lib hscript
+
+-D mac
+-D ABI=-MD
+-D WXSTATIC
+
+-cpp build/mac

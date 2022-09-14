@@ -1,0 +1,10 @@
+FlxColor.WHITE
+FlxColor.LIME
+FlxColor.PURPLE
+FlxColor.RED
+FlxColor.YELLOW
+FlxColor.PINK
+FlxColor.CYAN
+FlxColor.BLUE
+FlxColor.MAGENTA
+FlxColor.ORANGE
